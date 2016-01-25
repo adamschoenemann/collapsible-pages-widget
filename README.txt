@@ -1,13 +1,4 @@
-=== Collapsible Pages Widget ===
-Contributors: adamschoenemann
-Tags: pages, collapsible, nested, fold, folding, hierarchical, widget
-Requires at least: 3.0.1
-Stable Tag: 1.0.6
-Tested up to: 4.3
-License: GPLv2 or later
+# This repository has moved
 
-Wordpress plugin that provides a widget that lists pages in a collapsible list
-
-=== Description ===
-# Usage
-Simply install and then find the widget in Appearance->Widgets
+I am now using wordpress' standard svn repo. Keeping it synced with git was a minor nightmare, so I gave up on that.
+You can find the svn repo here: http://plugins.svn.wordpress.org/collapsible-pages-widget/
